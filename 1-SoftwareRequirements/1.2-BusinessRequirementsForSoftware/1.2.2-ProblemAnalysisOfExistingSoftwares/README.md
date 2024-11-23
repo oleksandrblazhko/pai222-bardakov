@@ -1,0 +1,8 @@
+### Проблемний аналіз існуючих програмних продуктів
+|                                             | Вода                             | Житло               | Спілкування на теми масової культури | Зацікавленість спортивними змаганнями | Тип<br/>ліцензії | Примітка    |
+|---------------------------------------------|----------------------------------|---------------------|-------------------------------------|---------------------------------------| ----- |-------------|
+| Продукт/<br/>Пошукові фрази                 | Software for<br/> ordering water | Rental<br/>software | Social media                        | Sports news<br/>platform              | |
+| [Morshynska](https://www.morshynska.ua/hod) | 4                                |                     |                                     |                                       |Proprietary | | 
+| [Olx](https://www.olx.ua/uk/)               |                                  | 1                   |                                     |                                       |Proprietary |             |
+| [X (former Twitter)](https://x.com/) |                                  |                     | 2                                   |                                       |Proprietary |
+| [Суспільне Новини](https://suspilne.media/sport/) |                                  |                     |                                   | 3                                       |Proprietary | 
